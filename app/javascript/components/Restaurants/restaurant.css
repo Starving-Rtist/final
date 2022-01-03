@@ -1,0 +1,52 @@
+.card {
+    border: 1px solid #efefef;
+    background: #fff;
+}
+
+.restaurant-logo {
+    width: 50px;
+    height: 50px;
+    border-radius: 100%;
+    border: 1px solid #efefef;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.restaurant-img {
+    width: 50px;
+    height: 50px;
+    border-radius: 100%;
+    border: 1px solid #efefef;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.restaurant-name {
+    padding: 20px 0 10px 0;
+}
+
+.restaurant-score {
+
+}
+
+.restaurant-link {
+    /* margin: 30px 0 20px 0; */
+    margin-left: auto;
+    margin-right: auto;
+    height: 30px;
+    color: #fff;
+    background: #000;
+    border-radius: 4px;
+    padding: 10px 10px;
+    border: 1px solid #000;
+    width: 65%;
+    text-decoration: none;
+}
+
+.link-text {
+    color: #fff;
+    text-decoration: none;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 20px;
+}
